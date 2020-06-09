@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "App to let people eat burgers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreysalva/burger.git"
+  },
+  "author": "Corey Salva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreysalva/burger/issues"
+  },
+  "homepage": "https://github.com/coreysalva/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  }
+}
